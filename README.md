@@ -26,4 +26,4 @@ PastelSpend is a fully interactive expense tracker and budget planner built with
 I wanted to deepen my understanding of core web fundamentals by building complex UI features — like interactive charts and a full CRUD data flow — from scratch, without leaning on libraries like Chart.js or React. This project sharpened my skills in DOM manipulation, SVG rendering, and responsive design systems.
 
 ## 🔗 Live Demo
-[View Live]( https://vaishnavitrivedi.github.io/PastelSpend/) | [GitHub Repo](your-repo-link-here)
+[View Live]( https://vaishnavitrivedi.github.io/PastelSpend/) | [GitHub Repo](https://github.com/vaishnavitrivedi/PastelSpend)
