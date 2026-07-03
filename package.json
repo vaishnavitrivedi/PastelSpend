@@ -1,0 +1,12 @@
+{
+  "name": "expense-tracker-vanilla",
+  "version": "1.0.0",
+  "description": "Premium Pastel Expense Tracker in Vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx local-cors-proxy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
